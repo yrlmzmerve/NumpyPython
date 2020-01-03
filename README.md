@@ -15,7 +15,7 @@ NumPy ‘da boyut aksis (axes) olarak adlandırılır. Aksislerin sayısı ise d
 import numpy as np
 ```
 
-#### İçerik 
+### İçerik 
 1. Numpy Array Oluşturma
 2. Numpy Array İndexleme
 3. Numpy İşlemleri
