@@ -10,5 +10,7 @@ NumPy dizileri ile standart Python dizileri arasında birkaç önemli farklılı
 NumPy ‘da boyut aksis (axes) olarak adlandırılır. Aksislerin sayısı ise derece (rank) olarak adlandırılır.
 
 
-Kütüphaneyi import etme
+### Kütüphaneyi import etme
+```
 import numpy as np
+```
