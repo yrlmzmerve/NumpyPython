@@ -8,3 +8,7 @@ NumPy dizileri ile standart Python dizileri arasında birkaç önemli farklılı
 2. NumPy dizisindeki öğelerin hepsinin aynı veri türüne sahip olmalıdır. Dolayısıyla bellekte aynı boyutta olacaktır.Fakat istisnalar mevcuttur.İstisnaya örnek olarak: nesne dizileri farklı boyutlara sahip olabilir. Böylece farklı boyutlu öğelerin dizilerine izin verilmiş olur ama temelde yine aynı veri tipi vardır ve homojendir.
 
 NumPy ‘da boyut aksis (axes) olarak adlandırılır. Aksislerin sayısı ise derece (rank) olarak adlandırılır.
+
+
+Kütüphaneyi import etme
+import numpy as np
