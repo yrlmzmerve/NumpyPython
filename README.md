@@ -14,3 +14,4 @@ NumPy ‘da boyut aksis (axes) olarak adlandırılır. Aksislerin sayısı ise d
 ```
 import numpy as np
 ```
+<a href="http://fvcproductions.com"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" title="FVCproductions" alt="FVCproductions"></a>
